@@ -8,5 +8,5 @@ const UserSchema = new mongoose.Schema({
     blogs: [{ type: mongoose.Types.ObjectId, ref: "blog" }]
 }, { timestamps: true });
 
-const UserModel = mongoose.model("User", UserSchema);
+const UserModel = mongoose.model("user", UserSchema);
 export default UserModel;
