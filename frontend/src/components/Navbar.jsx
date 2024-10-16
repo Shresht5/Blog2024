@@ -17,7 +17,7 @@ const Navbar = () => {
         <div className='fixed top-0 w-full bg-blue-500 p-4 shadow-xl text-white'>
             <div className='max-w-6xl mx-auto flex justify-between items-center '>
                 <div>
-                    <p className='text-2xl'>My Blog App</p>
+                    <Link to="/"><p className='text-2xl'>My Blog App</p></Link>
                 </div>
                 <div>
 

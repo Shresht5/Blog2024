@@ -4,7 +4,7 @@ import UserModel from '../models/UserModel.js'
 
 export const AllBlogData = async (req, res) => {
     try {
-        const blog = await BlogModel.find({});
+        const blog = await BlogModel.find({}).populate('user');
         if (!blog) {
             return res.status(400).json({ success: false, message: "no data" })
         }
@@ -21,7 +21,7 @@ export const SingleBlogData = async (req, res) => {
         if (!blog) {
             return res.status(400).json({ success: false, message: "no blog found" })
         }
-        return res.status(200).json({ count: blog.length, success: true, message: "blog", blog })
+        return res.status(200).json({ count: blog.length, success: true, message: "serached blog", blog })
     } catch (err) {
         return res.status(400).json({ success: false, message: "error:", err })
     }

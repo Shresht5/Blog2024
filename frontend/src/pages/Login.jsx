@@ -32,6 +32,7 @@ const Login = () => {
             if (res.data.success) {
                 // Correct way to dispatch login action
                 dispatch(authActions.login());  // This will update the state to logged in
+                localStorage.setItem("userId", res.data.user._id)
                 alert(res.data.message);
                 setTimeout(() => { Navigate('/') }, 1000);
             } else {

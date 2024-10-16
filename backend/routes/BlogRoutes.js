@@ -4,7 +4,6 @@ import { AllBlogData, CreateBlogData, DeleteBlogData, SingleBlogData, UpdateBlog
 const router = express.Router();
 
 router.get('/allblog', AllBlogData)
-
 router.get('/getblog/:id', SingleBlogData)
 router.post('/createblog', CreateBlogData)
 router.put('/updateblog/:id', UpdateBlogData)
