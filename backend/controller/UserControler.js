@@ -17,6 +17,7 @@ export const getUser = async (req, res) => {
 export const register = async (req, res) => {
     try {
         const { Uname, Uemail, Upass } = req.body;//assign data
+        console.log(req.body)
         if (!Uname || !Uemail || !Upass) {
             return res.status(400).json({
                 success: false, message: `fill all details`
