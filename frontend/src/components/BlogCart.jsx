@@ -21,7 +21,7 @@ const BlogCart = (props) => {
                     </div>
                     <div className='space-y-2'>
                         <h1 className='text-lg font-bold'>{props.title}</h1>
-                        <p>{props.discription}</p>
+                        <p>{props.description}</p>
                     </div>
                 </div>
             </div>

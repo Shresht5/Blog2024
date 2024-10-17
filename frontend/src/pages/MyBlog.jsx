@@ -29,11 +29,13 @@ const MyBlog = () => {
             <Navbar />
             <div className='block h-16'></div>
             <div>
-                {blog.map((b) => (<BlogCart name={userName}
+                {console.dir(blog)}
+                {blog && blog.length > 0 ? (blog.map((b) => (<BlogCart name={userName}
                     title={b.title}
-                    discription={b.description}
+                    description={b.description}
                     time={b.createdAt}
-                />))
+                />))) : (<h1>You haven't created blog</h1>)
+
 
                 }
             </div>

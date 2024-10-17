@@ -28,7 +28,7 @@ const Blogs = () => {
             <div>
                 {blogs.map((b) => (<BlogCart name={b.user.Uname}
                     title={b.title}
-                    discription={b.description}
+                    description={b.description}
                     time={b.user.createdAt}
                 />))
 

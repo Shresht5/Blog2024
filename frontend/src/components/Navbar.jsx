@@ -26,6 +26,7 @@ const Navbar = () => {
                     {isLogin && (<>
                         <Link to="/myblog"><button >My Blogs</button></Link>
                         <Link to="/blogs"><button >Blogs</button></Link>
+                        <Link to="/createblog"><button >Create</button></Link>
                     </>)}
                     {!isLogin && (<>
                         <Link to="/login"><button >Login</button></Link>
