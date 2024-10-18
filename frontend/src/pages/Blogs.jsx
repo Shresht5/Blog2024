@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from '../components/Navbar'
 import axios from 'axios'
-import BlogCart from '../components/BlogCart'
+import BlogCard from '../components/BlogCard'
 
 const Blogs = () => {
     const [blogs, setBlogs] = useState([]);
@@ -26,7 +26,10 @@ const Blogs = () => {
             <Navbar />
             <div className='block h-16'></div>
             <div>
-                {blogs.map((b) => (<BlogCart name={b.user.Uname}
+                {blogs.map((b) => (<BlogCard
+                    id={b._id}
+                    isUser={localStorage.getItem('userId') === b.user._id}
+                    name={b.user.Uname}
                     title={b.title}
                     description={b.description}
                     time={b.user.createdAt}

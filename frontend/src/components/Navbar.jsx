@@ -14,7 +14,7 @@ const Navbar = () => {
     console.log(isLogin)
 
     return (
-        <div className='fixed top-0 w-full bg-blue-500 p-4 shadow-xl text-white'>
+        <div className='fixed top-0 w-full bg-blue-500 p-4 shadow-xl text-white z-40'>
             <div className='max-w-6xl mx-auto flex justify-between items-center '>
                 <div>
                     <Link to="/"><p className='text-2xl'>My Blog App</p></Link>

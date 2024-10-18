@@ -1,12 +1,67 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import Profile from '../assets/Shreshta-IMG9532.jpg'
+import Blogin from '../assets/blogins.jpg'
+import Footer from '../components/Footer'
 
 const Home = () => {
     return (
         <div>
             <Navbar />
-            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto dolor fugit magni vitae laborum officia quos, unde velit saepe ipsam tempora eos, culpa accusamus non eveniet? Vero iste, doloremque impedit laboriosam ad voluptates, possimus rem eligendi tempora quasi esse eos laudantium, officiis dolorem sint vitae odio atque. Obcaecati, nam rem repellendus aperiam sequi reiciendis eaque iusto consequuntur soluta vero quisquam. Est officia optio iste quo eligendi. Architecto harum illum rem minus placeat sapiente veritatis dolor libero iusto voluptates officia unde repudiandae, vitae veniam est dicta delectus dolore. Deleniti quo adipisci facilis nihil, natus esse aspernatur debitis perferendis nisi iusto id illum tempore maiores, pariatur porro quam ipsa molestias nam, ipsam quos atque laborum nesciunt molestiae? Facilis maxime soluta distinctio provident eum est sapiente magnam laboriosam rem, accusantium quasi, inventore vitae dolores eveniet a ipsa tempora consectetur fugit nobis necessitatibus quidem unde, vel doloremque. Distinctio nemo enim veniam eius vitae et adipisci voluptate sit explicabo voluptatibus maxime facere sapiente asperiores dignissimos ex repellat, id facilis accusantium tenetur. Reprehenderit doloremque necessitatibus totam ullam nisi facere voluptatibus magni eveniet ex cupiditate dolor iure ratione rerum a officia quo, culpa quod velit amet vel ut. Nisi molestias rem et temporibus culpa mollitia. Expedita recusandae similique ut, fugiat voluptate officia consequuntur incidunt sapiente quia? Provident voluptatum numquam inventore repellat id, in asperiores magni totam facilis aut sapiente molestias earum quidem rerum ea. Quas, aspernatur esse natus perspiciatis possimus quos at illo rerum, earum, officia animi libero provident! Tenetur delectus deserunt quasi totam veniam recusandae distinctio laboriosam sunt eveniet quo? Excepturi laboriosam, nulla assumenda dolorum ipsum nam amet ullam quidem, dicta earum explicabo accusantium veritatis possimus neque harum aperiam ad, tenetur magni rem id atque dolorem provident quos. Expedita quae unde magnam laborum! Consectetur eaque ab excepturi similique porro, et quis commodi expedita temporibus recusandae, nesciunt animi amet corrupti totam necessitatibus iusto nulla, vel molestias aliquid hic voluptas a esse veritatis consequuntur. Nam optio eaque, reprehenderit molestias hic ipsum soluta praesentium corporis atque temporibus facere officia, quia, sunt repellat fugit quo dolorem quidem. Perspiciatis, odit saepe, voluptatibus, provident enim voluptatem rem reprehenderit eveniet pariatur delectus aperiam magni nihil commodi! Nulla officia animi perferendis delectus numquam fuga ab rem maiores. A sunt, est ut possimus rerum culpa nam, alias delectus numquam, autem explicabo ratione maiores excepturi magnam nihil dolorem suscipit tempore ullam. Corrupti similique voluptas corporis possimus perferendis earum neque consequuntur qui, fugiat officiis sapiente sint ut sequi voluptatibus laborum quos architecto modi nihil recusandae itaque dolorum. Dolores est, totam cumque exercitationem blanditiis numquam perspiciatis porro facere laboriosam enim consequatur dolore voluptatibus quibusdam, impedit eligendi nihil adipisci neque fugiat, debitis aliquam amet ipsam vel minus! Praesentium ipsa eos magnam, nostrum possimus et odit ad quisquam quaerat unde minus ex laudantium officia beatae iusto aperiam, explicabo reiciendis? Distinctio unde earum tempora alias quaerat repudiandae nulla, consequuntur aut minima incidunt. Corrupti iure similique, beatae debitis aliquam tempore in placeat iste maxime modi. Corporis praesentium soluta modi quasi tenetur assumenda vitae distinctio eum alias adipisci ea perspiciatis sint sapiente, libero id quia amet quas! Pariatur impedit, doloribus officia cupiditate fuga consequatur aliquid ullam eius reprehenderit vel praesentium iure neque, voluptas error provident, eos magnam sint tenetur qui aspernatur? Nihil accusantium, tempora aliquid id veniam qui fuga minima vel deserunt. Molestiae numquam reiciendis sit animi hic natus odit officia! Obcaecati molestias voluptatum cum minima dolorum quam repellat dignissimos odio placeat cupiditate architecto temporibus quia aliquam quaerat nobis, adipisci rerum dolores. Voluptas doloremque nisi reiciendis doloribus eius odit et quidem quis, voluptatem iusto. Iure necessitatibus cumque eos? Quas, assumenda. Magni porro necessitatibus enim. Ipsum asperiores perspiciatis veritatis ipsam, consectetur doloremque quo delectus maxime impedit doloribus voluptatum dolorum dolorem porro. Et eligendi veritatis ducimus error, deserunt voluptatibus. Voluptates, cupiditate magni molestiae, eum placeat quasi unde quis nesciunt, officia fuga nihil incidunt dolorem tempore consequuntur rerum minus recusandae? Aut quidem itaque amet accusantium explicabo aliquid enim sit beatae? Nihil, molestias corporis cupiditate ex voluptate nesciunt neque, reprehenderit asperiores at sed similique. Soluta, architecto fugit? Aspernatur eum, beatae repellat id ut alias neque! Iure cumque, consectetur quam distinctio ipsam quae impedit facilis iste cum quaerat sequi, maxime voluptatibus quia qui quos eaque itaque saepe deserunt earum dolores error vel. Iste beatae quaerat quod qui dolor consequatur dignissimos laboriosam accusantium fugit voluptas voluptatum illo nisi numquam ab cum aliquam a cupiditate, doloribus consequuntur totam quia id exercitationem! Voluptates, nesciunt nihil impedit asperiores repellendus eum officiis, et inventore, a beatae neque aliquid. Nesciunt odit id laboriosam ipsum, veniam aliquam eum quia sint molestias expedita itaque dignissimos ea asperiores aspernatur quo quaerat totam atque praesentium, non ipsam minus dolores perferendis? Quo aliquam nemo dolor omnis quasi a culpa sunt ex enim distinctio quae, modi quas voluptates cum. Odio cumque maiores obcaecati nostrum consectetur et hic, nesciunt perspiciatis quisquam nisi cum consequuntur aspernatur dolorum officia, similique quos dolores id ipsum excepturi quibusdam iste modi repudiandae animi saepe. Adipisci praesentium quam vero eius, pariatur totam veniam expedita ipsam numquam nesciunt, iusto facere laudantium aliquam repellat modi minus dolore voluptas itaque, harum molestiae alias. Enim consequuntur non praesentium vel, incidunt animi aliquid! Quisquam delectus eos adipisci id et voluptates maxime fugit distinctio consectetur dolor, pariatur consequatur tempora accusamus dicta! Error voluptatibus quas eaque accusantium, sunt obcaecati sint consectetur porro delectus ab. Placeat animi vitae, harum magnam quia saepe porro repellat possimus, hic vel exercitationem! Perferendis iusto nostrum id, illo nam culpa quod voluptates sunt, vel eaque inventore pariatur rem! Quibusdam modi quae ut, saepe, iusto harum magni tempora perferendis odio repellendus autem eaque! Repudiandae dolore enim maiores odit harum et provident! Incidunt quam exercitationem laudantium ad nihil consequuntur molestias similique corporis mollitia dolores aut cupiditate ratione voluptatibus earum labore rerum, necessitatibus, cum nesciunt quas expedita! Mollitia cupiditate odio aperiam sint quo voluptates, est non! Voluptate fuga doloribus non temporibus, eos quia quaerat delectus rem amet facere distinctio dolores nostrum quae unde explicabo laborum tempora autem asperiores dolorum sint possimus. Voluptatem vel quod possimus maiores eveniet assumenda, pariatur sapiente sed quo, rem saepe, maxime voluptate quaerat! Explicabo nam dicta nemo ea inventore.
-            </h1>
+            <div className='block h-16'></div>
+            <div className='flex justify-center bg-slate-100'>{/* main */}
+                <div className='w-full max-w-6xl shadow-2xl p-7 bg-white'>{/* center */}
+                    <div className='flex flex-col items-center'>{/* head */}
+                        <div>
+                            <h6 className='text-9xl font-serif '>Demo</h6>
+                        </div>
+                        <div>
+                            <h1>This Is Sample</h1>
+                        </div>
+                    </div>
+                    <div className='w-full'><hr className="border-1 border-gray-300 my-4"></hr></div>
+                    <div className='block xl:flex xl:space-y-2'>
+                        <div className='w-full m-2 shadow-xl p-2'>
+                            <div className='relative'>
+                                <img src={Blogin} className='w-full' ></img>
+                                <div className="absolute top-0 left-0 w-full h-full flex justify-center items-end ">
+                                    <h3 className="text-blue-500  text-3xl font-bold">Welcome to My Blog</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div className='w-96 m-2 shadow-xl p-2'>{/*righ side */}
+                            <div className='space-y-3'>
+                                <h2>About Me</h2>
+                                <div className='flex space-x-1'>
+                                    <div>
+                                        <img src={Profile} alt="o" className='h-14 w-14 rounded-full' />
+                                    </div>
+                                    <div>
+                                        <h1 className='text-xl font-serif'>Shreshta Balapure</h1>
+                                        <p className='text-emerald-500'>Software Devloper</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    A software developer designs, builds, and maintains applications or systems to solve problems using programming languages and technology.
+                                </div>
+                                <h1 className='text-orange-500'>
+                                    FOLLOW ME
+                                </h1>
+                                <div>
+                                    Follow me for updates, insights, and growth!
+                                </div>
+                                <div>
+                                    Read More
+                                </div>
+                                <div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <Footer />
         </div>
     )
 }

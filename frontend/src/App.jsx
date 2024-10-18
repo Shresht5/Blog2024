@@ -6,6 +6,7 @@ import SignUp from './pages/SignUp'
 import MyBlog from './pages/MyBlog'
 import Blogs from './pages/Blogs'
 import CreateBlog from './pages/CreateBlog'
+import BlogEdit from './pages/BlogEdit'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
           <Route path='/myblog' element={<MyBlog />} />
           <Route path='/blogs' element={<Blogs />} />
           <Route path='/createblog' element={<CreateBlog />} />
+          <Route path='/blogedit/:id' element={<BlogEdit />} />
         </Routes>
       </BrowserRouter>
     </>
